@@ -86,7 +86,7 @@
   "company": {
     "enabled": true,
     "name": "Eternal Production",
-    "logo": "https://placehold.co/150x150/111827/ffffff?text=EP",
+    "logo": "https://photograph.eternalproduction.net/eternal-logo.jpg",
     "description": "Yetenek Ajansı & Anime İçerik Üretim Merkezi. Anime, manga, dijital projeler ve içerik üretimi.",
     "website": "https://eternalproduction.net"
   },
@@ -103,7 +103,7 @@
       {
         "name": "Instagram",
         "icon": "fa-brands fa-instagram",
-        "url": "https://instagram.com/eternalproductt"
+        "url": "https://instagram.com/eternalproductiontr"
       }
     ]
   },
@@ -111,6 +111,6 @@
   "footer": {
     "brand": "ETERNAL PRODUCTION",
     "copyright": "© 2026 RUBY. Tüm hakları saklıdır.",
-    "credit": "Designed with precision."
+    "credit": ""
   }
 }
