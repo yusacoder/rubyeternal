@@ -1,0 +1,116 @@
+
+{
+  "profile": {
+    "name": "RUBY",
+    "username": "@ruby",
+    "avatar": "https://placehold.co/400x400/111827/ffffff?text=R",
+    "verified": true,
+
+    "badges": [
+      {
+        "text": "YETKİLİ ADMİN",
+        "type": "admin",
+        "icon": "fa-solid fa-shield-halved"
+      },
+      {
+        "text": "ETERNAL PRODUCTION",
+        "type": "staff",
+        "icon": "fa-solid fa-star"
+      }
+    ],
+
+    "description": "Eternal Production bünyesinde görev alan ekip üyesi. Yönetim, platform düzeni ve ekip çalışmalarında aktif rol üstleniyorum.",
+
+    "about": "Merhaba, ben RUBY. Eternal Production bünyesinde Yetkili Admin olarak görev yapıyorum. Platformun yönetim süreçlerine, ekip koordinasyonuna ve projelerin düzenli şekilde ilerlemesine katkı sağlıyorum. Amacım, Eternal Production'ın gelişimine destek olmak ve kaliteli bir topluluk ortamı oluşturmak."
+  },
+
+  "appearance": {
+    "backgroundImage": "https://images.unsplash.com/photo-1519608487953-e999c86e7455?q=80&w=2000",
+    "backgroundBlur": 0,
+    "backgroundDarkness": 0.25,
+    "backgroundZoom": 1.04,
+
+    "navbarOpacity": 0,
+    "navbarBlur": 16,
+
+    "cardOpacity": 0,
+    "cardBlur": 0,
+
+    "elementOpacity": 0.08,
+    "elementBlur": 12,
+
+    "borderOpacity": 0.15,
+
+    "accentColor": "#2495ff",
+    "textColor": "#ffffff",
+    "mutedColor": "rgba(255,255,255,.65)"
+  },
+
+  "navbar": {
+    "title": "RUBY",
+    "highlight": "BY"
+  },
+
+  "sections": {
+    "about": {
+      "enabled": true,
+      "title": "Hakkımda",
+      "icon": "fa-solid fa-user"
+    },
+
+    "tasks": {
+      "enabled": true,
+      "title": "Görev ve Yetkiler",
+      "icon": "fa-solid fa-layer-group",
+
+      "items": [
+        {
+          "title": "Yönetim",
+          "description": "Platformun yönetim süreçlerine ve düzenine katkıda bulunmak.",
+          "icon": "fa-solid fa-shield-halved"
+        },
+        {
+          "title": "Ekip Koordinasyonu",
+          "description": "Ekip üyeleriyle iletişim kurmak ve çalışmaların takibini yapmak.",
+          "icon": "fa-solid fa-users"
+        },
+        {
+          "title": "Platform Desteği",
+          "description": "Projelerin geliştirilmesine ve platform işleyişine destek sağlamak.",
+          "icon": "fa-solid fa-gears"
+        }
+      ]
+    }
+  },
+
+  "company": {
+    "enabled": true,
+    "name": "Eternal Production",
+    "logo": "https://placehold.co/150x150/111827/ffffff?text=EP",
+    "description": "Yetenek Ajansı & Anime İçerik Üretim Merkezi. Anime, manga, dijital projeler ve içerik üretimi.",
+    "website": "https://eternalproduction.net"
+  },
+
+  "socials": {
+    "enabled": true,
+    "title": "İletişim",
+    "items": [
+      {
+        "name": "Website",
+        "icon": "fa-solid fa-globe",
+        "url": "https://eternalproduction.net"
+      },
+      {
+        "name": "Instagram",
+        "icon": "fa-brands fa-instagram",
+        "url": "https://instagram.com/eternalproductt"
+      }
+    ]
+  },
+
+  "footer": {
+    "brand": "ETERNAL PRODUCTION",
+    "copyright": "© 2026 RUBY. Tüm hakları saklıdır.",
+    "credit": "Designed with precision."
+  }
+}
