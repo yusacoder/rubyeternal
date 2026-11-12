@@ -3,7 +3,7 @@
   "profile": {
     "name": "RUBY",
     "username": "@ruby",
-    "avatar": "https://placehold.co/400x400/111827/ffffff?text=R",
+    "avatar": "https://i.pinimg.com/736x/1b/c4/19/1bc419fb38ff634f22212dee0e852a58.jpg",
     "verified": true,
 
     "badges": [
@@ -25,8 +25,8 @@
   },
 
   "appearance": {
-    "backgroundImage": "https://images.unsplash.com/photo-1519608487953-e999c86e7455?q=80&w=2000",
-    "backgroundBlur": 0,
+    "backgroundImage": "https://i.pinimg.com/736x/41/a7/26/41a726a40c54829659cddcafe17b7c48.jpg",
+    "backgroundBlur": 10,
     "backgroundDarkness": 0.25,
     "backgroundZoom": 1.04,
 
